@@ -1,0 +1,241 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "insertionsort",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "bubblesort",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "stringInput",
+      "request": "launch",
+      "mainClass": "stringInput",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "shadowing",
+      "request": "launch",
+      "mainClass": "shadowing",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "armStrong",
+      "request": "launch",
+      "mainClass": "armStrong",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "removeDuplicates",
+      "request": "launch",
+      "mainClass": "removeDuplicates",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "secondLargest",
+      "request": "launch",
+      "mainClass": "secondLargest",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "simpleclass",
+      "request": "launch",
+      "mainClass": "simpleclass",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortedArrays",
+      "request": "launch",
+      "mainClass": "MergeSortedArrays",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "removeDupilcates",
+      "request": "launch",
+      "mainClass": "removeDupilcates",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "countvocon",
+      "request": "launch",
+      "mainClass": "countvocon",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "isPalindrome",
+      "request": "launch",
+      "mainClass": "isPalindrome",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "reverseArray",
+      "request": "launch",
+      "mainClass": "reverseArray",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "MinMax",
+      "request": "launch",
+      "mainClass": "MinMax",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "SumofArray",
+      "request": "launch",
+      "mainClass": "SumofArray",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "reverse",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "fibonacci",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "prime",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "nothing",
+      "request": "launch",
+      "mainClass": "nothing",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "mulitplication",
+      "request": "launch",
+      "mainClass": "mulitplication",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "simplecalculator",
+      "request": "launch",
+      "mainClass": "simplecalculator",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "largestof3",
+      "request": "launch",
+      "mainClass": "largestof3",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "checkeven",
+      "request": "launch",
+      "mainClass": "checkeven",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "input1",
+      "request": "launch",
+      "mainClass": "input1",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "cpp_759ce3eb"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/cpp",
+      "program": "c:/cpp/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
