@@ -9,6 +9,7 @@ This project is designed to:
 - Explore common algorithmic patterns and data structures
 - Sharpen logical reasoning with structured coding challenges
 - Demonstrate real-world applications with simplified solutions
+- Helps to improve the basics
 
 Whether you're revisiting the basics or tackling interview prep, this repository serves as a compact learning lab.
 
