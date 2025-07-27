@@ -20,7 +20,7 @@ public class majorityElement {
                 count++;
             }
             else {
-                count --;
+                count--;
             }
         }
         return candidate;
