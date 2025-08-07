@@ -1,4 +1,4 @@
-public class reversewords {
+public class reverseWords {
     public static void main(String[] args) {
         String str = "this is a test";
         String reversed = reverseWords(str);
@@ -18,3 +18,4 @@ public class reversewords {
         return result.toString().trim();
     }
 }
+
