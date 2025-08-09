@@ -1,26 +1,26 @@
-
-import java.util.Stack;
-
-public class removeOuterParentheses {
-    public static void main(String[] args) {
-        Stack<Character> st  = new Stack<>();
+// Last updated: 8/1/2025, 10:34:24 PM
+class Solution {
+    public String removeOuterParentheses(String s) {
+        Stack<Character> st = new Stack<>();
         StringBuilder sb = new StringBuilder();
-        String s = "(())";
-        for(int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if(c == '(') {
-                if(!st.isEmpty()) {
-                  sb.append(c);
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (ch == '(') {
+                if (!st.isEmpty()) {
+                    sb.append(ch); // not outermost
                 }
-                st.push(c);
-            }       
-            else if(c == ')'){
+                st.push(ch);
+            } 
+            else if (ch == ')') {
                 st.pop();
-                if(!st.isEmpty()) {
-                    sb.append(c);
+                if (!st.isEmpty()) {
+                    sb.append(ch); // not outermost
                 }
             }
         }
-        System.out.println("String: " + sb);
+
+        return sb.toString();
     }
 }
